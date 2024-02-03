@@ -1,7 +1,7 @@
 # metalsmith-textile
 Textile for Metalsmith
 
-Forked from [metalsmith-markdown](https://github.com/segmentio/metalsmith-markdown) and converted to livescript
+Forked from [metalsmith-markdown](https://github.com/segmentio/metalsmith-markdown).
 
 ## Differences from `metalsmith-markdown`
 Due to how [`textile-js`](https://github.com/borgar/textile-js) works, there are no o
